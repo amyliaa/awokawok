@@ -19,7 +19,7 @@
 <body class="hold-transition login-page" style="background-image: url('bsss.jpg'); background-size: cover";>
     <div class="login-box">
         <!-- /.login-logo -->
-        <div class="card card-outline card-primary" style="background:transparent; border: 2px solid rgba(255, 255, 255, .2); backdrop-filter: blur(3px); box-shadow: 0 20 10;";>
+        <div class="card card-outline card-primary" style="background:transparent; border: 2px solid rgba(270, 270, 270, .5); backdrop-filter:blur(0px); color:#fff; border-radius: 20px;">
             <div class="card-header text-center">
                 <h1 class="h1">Aplikasi<b>POS</b></h1>
             </div>
