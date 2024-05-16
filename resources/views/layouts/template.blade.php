@@ -19,7 +19,7 @@
 </head>
 <!-- Preloader -->
 <div class="preloader flex-column justify-content-center align-items-center">
-    <img class="animation__shake" src="dist/img/pp.jpg" alt="bsss" height="200" width="200">
+    <img class="animation__shake" src="dist/img/pp.jpg" alt="bsss" height="150" width="150">
   </div>
 
 <body class="hold-transition sidebar-mini">
@@ -84,7 +84,7 @@
                 <!-- Sidebar user panel (optional) -->
                 <div class="user-panel mt-3 pb-3 mb-3 d-flex">
                     <div class="image">
-                        <img src="{{ asset('dist/img/pp.jpg')}}" class="img-circle elevation-2" alt="User Image">
+                        <img src="{{ asset('dist/img/ssakura.jpg')}}" class="img-circle elevation-2" alt="User Image">
                     </div>
                     <div class="info">
                         <a href="#" class="d-block">{{ Auth::user()->name}}</a>
