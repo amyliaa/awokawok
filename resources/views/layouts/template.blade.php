@@ -19,7 +19,7 @@
 </head>
 <!-- Preloader -->
 <div class="preloader flex-column justify-content-center align-items-center">
-    <img class="animation__shake" src="dist/img/pp.jpg" alt="bsss" height="150" width="150">
+    <img class="animation__shake" src="dist/img/pp.jpg" alt="pp" height="150" width="150">
   </div>
 
 <body class="hold-transition sidebar-mini">
@@ -76,7 +76,7 @@
             <!-- Brand Logo -->
             <a href="index3.html" class="brand-link">
                 <img src="{{ asset('dist/img/Lg.png')}}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-                <span class="brand-text font-weight-light">POS</span>
+                <span class="brand-text font-weight-light">Toko Buku Cheerful</span>
             </a>
 
             <!-- Sidebar -->
@@ -137,7 +137,7 @@
                             <a href="{{ route('pelanggan.index')}}" class="nav-link {{ ($title==='Pelanggan')?'active':''}}">
                                 <i class="nav-icon fas fa-users"></i>
                                 <p>
-                                    Customer
+                                    Pelanggan
                                 </p>
                             </a>
                         </li>
@@ -145,7 +145,7 @@
                             <a href="{{ route('pengguna.index')}}" class="nav-link {{ ($title==='Users')?'active':''}}">
                                 <i class="nav-icon fas fa-users"></i>
                                 <p>
-                                    Users
+                                    Petugas
                                 </p>
                             </a>
                         </li>
