@@ -43,8 +43,8 @@
                         <td>{{ $loop->iteration }}</td>
                         <td>{{ $dt->nama }}</td>
                         <td>{{ $dt->stok }}</td>
-                        <td>{{ $dt->deskripsi }}</td>
                         <td>@money($dt->harga) </td>
+                        <td>{{ $dt->deskripsi }}</td>
                         <td>
                             <div class="btn-group">
                                 <form action="{{ route('produk.destroy',$dt->id)}}" method="POST">
