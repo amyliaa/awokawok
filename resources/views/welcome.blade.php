@@ -88,7 +88,7 @@
                             </div>
                         </div>
                         <h1 class="mt-1 mb-3">
-                            Rp
+                            Rp.
                         </h1>
                         <div class="mb-0">
                             <span class="text">
@@ -119,7 +119,7 @@
                             </div>
                         </div>
                         <h1 class="mt-1 mb-3">
-                            Rp
+                            Rp.
                         </h1>
                         <div class="mb-0">
                             <span class="text">
@@ -150,7 +150,7 @@
                             </div>
                         </div>
                         <h1 class="mt-1 mb-3">
-                            Rp
+                            Rp.
                         </h1>
                         <div class="mb-0">
                             <span class="text">
@@ -181,7 +181,7 @@
                             </div>
                         </div>
                         <h1 class="mt-1 mb-3">
-                            Rp
+                            Rp.
                         </h1>
                         <div class="mb-0">
                             <span class="text">
@@ -211,7 +211,7 @@
                     <tr>
                         <th>No</th>
                         <th>Nama Pelanggan</th>
-                        <th>TotalTransaksi</th>
+                        <th>Total Transaksi</th>
                         
                     </tr>
                 </thead>

@@ -21,6 +21,7 @@ class UserController extends Controller
             "email"=>"required",
             "password"=>"required"
         ]);
+        
         $password=Hash::make($request->password);
         $request->merge(["password"=>$password]);
 

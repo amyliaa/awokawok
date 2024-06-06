@@ -111,7 +111,8 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link {{($title==='Produk')?'active':''}}">
-                                <i class="nav-icon fas fa-boxes"></i>
+                            <i class="nav-icon fas fa-boxes"></i>
+                                
                                 <p>
                                     Produk
                                     <i class="fas fa-angle-left right"></i>
@@ -159,10 +160,14 @@
                             </a>
                         </li>
 
-                        
-
-
-
+                        <li class="nav-item">
+                            <a href="{{ route('laporan.index')}}" class="nav-link {{ ($title==='Laporan')?'active':''}}">
+                                <i class="nav-icon fas fa-file-pdf"></i>
+                                <p>
+                                    Laporan
+                                </p>
+                            </a>
+                        </li>
                     </ul>
                 </nav>
                 <!-- /.sidebar-menu -->
